@@ -1,4 +1,4 @@
-# Hi, I'm Misha 👋
+# Hi, I'm Misha 
 
 ### MSc Data Science & Artificial Intelligence | Biomedical Science Graduate
 
